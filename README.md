@@ -11,6 +11,7 @@ Prerequisites:
 - PostgreSQL
 - psycopg2 library for python (pip install psycopg2-binary) to install
 
-In a terminal/command prompt:
-git clone https://github.com/ben-schlagenhaufer
+Pull from **Master** branch
+
+
 
